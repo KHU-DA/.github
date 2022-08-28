@@ -1,12 +1,166 @@
-## Hi there 👋
+# KHUDA
 
-<!--
+# 💽 KHUDA는 어떤 동아리인가요?
 
-**Here are some ideas to get you started:**
+---
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+KHUDA는 경희대학교 소프트웨어융합대학 Data Analysis 동아리입니다.
+
+ 2022년, Big Data, AI, ML, Deep Learning 등의 용어는 이미 우리에게 친숙해진지 오래입니다. 데이터 직무는 취업을 준비하는 학생들에게 충분히 매력적으로 다가오고, 여러 기업들도 데이터 관련 직무를 채용하기에 앞서고 있습니다.
+
+ 우리는 프로그래밍을 하는 사람, 소프트웨어를 다루는 사람으로서 관련 직무를 수행하기 위해 필요한 역량을 갖춰야만 합니다. 단순 Data Labeling, Pre-Processing으로만 끝나서는 경쟁력을 가지기 힘들 것입니다. Data Processor보다 Data Analyst, Researcher가 되기 위해 끊임없이 변화하는 이 길을 함께 배우고 성장하며 나아가야 합니다.
+
+**저희는 동아리에서 배우기만 하는 분보다 동아리를 같이 만들어 나갈 분들을 원하고 있습니다.**
+
+**KHUDA에서 함께 데이터 분석과 머신러닝 기술을 공부해보시는 건 어떨까요?** 😆
+
+# 📝 KHUDA는 무엇을 하나요?
+
+---
+
+<aside>
+💡 KHUDA는 **자연어처리, 추천시스템, 컴퓨터 비전, 데이터 비즈니스 중심**으로 학습합니다. 개개인의 관심 분야 및 직무 탐색은 **동아리 內에서 진행하는 스터디**를 통해 수행하실 수 있으니 지원 전 유의하시길 바랍니다! 😊
+
+</aside>
+
+### 1. 📔 데이터 분석 Class (정기)
+
+1. 방학 중 수요일 **20시 ~ 22시**에 동아리 데이터 분석 정규 수업이 진행됩니다.
+2. 학기 중에는 수요일 **18시~20시(예정)**에 동아리 데이터 분석 수업이 진행됩니다. 
+3. **대면 수업을 원칙**으로 하고 있으나, 코로나19 상황으로 인해 방학 중에는 비대면 수업을 진행합니다. **학기 시작 후** 수업은 대면 수업으로 진행할 예정입니다.
+4. 4명 내외의 그룹 수업을 지향하고 있습니다.
+    1. 정해진 책과 논문을 가지고 발제를 진행합니다.
+    2. 주차별 토픽에 맞게 공부합니다.
+    3. 공부한 내용을 개인 사이트 및 카페에 정리합니다.
+    4. 이론을 바탕으로 코드를 구현해 과제로 제출합니다.
+- 교재
+    1. 개념서
+        - **혼자 공부하는 머신러닝+딥러닝(책+강의)**
+        
+    2. 딥러닝 분야별 심화학습(권장 학습 커리큘럼)
+        - 추천 시스템: **인프런 python을 이용한 개인화 추천시스템(강의)**
+        
+        [Python을 이용한 개인화 추천시스템 - 인프런 | 강의](https://www.inflearn.com/course/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EA%B0%9C%EC%9D%B8%ED%99%94-%EC%B6%94%EC%B2%9C%EC%8B%9C%EC%8A%A4%ED%85%9C)
+        
+        - 자연어 처리: **Do it! BERT와 GPT로 배우는 자연어 처리: 트랜스포머 핵심 원리와 허깅페이스 패키지 활용법(책)**
+        - 컴퓨터 비전: **인프런** ****[개정판] 딥러닝 컴퓨터 비전 완벽 가이드(강의)****
+        
+        [[개정판] 딥러닝 컴퓨터 비전 완벽 가이드 - 인프런 | 강의](https://www.inflearn.com/course/%EB%94%A5%EB%9F%AC%EB%8B%9D-%EC%BB%B4%ED%93%A8%ED%84%B0%EB%B9%84%EC%A0%84-%EC%99%84%EB%B2%BD%EA%B0%80%EC%9D%B4%EB%93%9C)
+        
+        - 데이터 비즈니스: ****데이터 분석과 시각화 SQL로 분석하고 Tableau로 시각화하자 : 실무 예제로 익히는 데이터 분석 시각화 테크닉(책)****
+    
+
+### 2. 🗣️ 컨퍼런스 발표
+
+1. 방학 중 1회, 학기 말 1회 컨퍼런스가 진행됩니다.
+2. 컨퍼런스는 개인 프로젝트, 팀 프로젝트, 공모전 등 분야 상관없이 본인이 진행한 데이터 분석 프로젝트를 발표합니다.
+3. 팀 구성은 카페 및 Slack을 통해 자유롭게 진행되며, 개인 발표도 가능합니다. 
+
+### 3. 📚 스터디
+
+1. 스터디별 일정에 맞춰 주 1회 진행됩니다.
+2. 운영진이 만든 스터디(선형대수, 통계 등) 외에도 직접 하고 싶은 스터디(자격증, 다른 분야 공부 등)을 만들어 운영할 수 있습니다.
+
+### 4. 🌏 네트워킹 행사
+
+ 네트워킹 행사는 이웃 동아리와의 교류, 졸업생과의 대화 등 다양한 사람들과 데이터 분석 및 인공지능 관련 기술을 공유할 수 있는 행사입니다.
+
+🧑‍💻**코딩 테스트** - 취업 시 필요한 코딩 테스트 역량을 기를 수 있습니다. 상품은 덤!
+
+🧑‍🎓**졸업생 강연** - 현업 개발자의 데이터 분석 직무 스킬 및 취업 팁을 배워갈 수 있습니다.
+
+### 5. 😎 1기 활동 보기
+
+- **KHUDA 네이버 카페**
+    
+    <aside>
+    💡 카페 목차에서 **자료실**에는 1기가 진행한 커리큘럼이, **컨퍼런스**에는 주제 제안과 발표 자료가 있으니 관심 있으신 분들은 확인해보시기 바랍니다😉
+    
+    </aside>
+    
+    [KHUDA](https://cafe.naver.com/khuda)
+    
+    ---
+    
+    <aside>
+    💡 1기가 진행한 미니 프로젝트 영상으로 바로 갈 수 있는 링크입니다.
+    
+    </aside>
+    
+    [KHUDA](https://cafe.naver.com/khuda/61)
+    
+- **정규세션 이외의 활동**
+    1. AI 엑스포 방문
+    
+    ![엑스포1](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F63011768-f349-47bc-a75a-6779ad461657%2FUntitled.png?table=block&id=6d74167e-d8e7-4367-a636-e86be4104b50&spaceId=401b71cb-e899-4ad5-9a39-9ce22113fde2&width=2000&userId=0c1c41c2-5847-4586-bccb-d3aad9c7c0ef&cache=v2)
+    
+    ![엑스포2](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F7a8a86a9-7095-4257-a632-ed3921c1d606%2F%EC%BA%A1%EC%B2%981.png?table=block&id=689d69ba-5ec4-4bac-8d94-668d245fd169&spaceId=401b71cb-e899-4ad5-9a39-9ce22113fde2&width=2000&userId=0c1c41c2-5847-4586-bccb-d3aad9c7c0ef&cache=v2)
+    
+    2. 전체 세션 종료 후 조모임 및 피드백
+    
+    ![전체 세션 종료 후 조모임 및 피드백](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fb9b8db47-8911-468f-8806-523d08de6c41%2FUntitled.png?table=block&id=6d43b9bc-5565-4bd1-aad8-51b6ce212872&spaceId=401b71cb-e899-4ad5-9a39-9ce22113fde2&width=2000&userId=0c1c41c2-5847-4586-bccb-d3aad9c7c0ef&cache=v2)
+    
+    3. 번개 모임
+    
+    ![번개 모임](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F66fe1dd0-3002-4278-9e4d-ac39c7f5626b%2FUntitled.png?table=block&id=ca90a4f9-6be2-4507-a160-ee53a47608a0&spaceId=401b71cb-e899-4ad5-9a39-9ce22113fde2&width=2000&userId=0c1c41c2-5847-4586-bccb-d3aad9c7c0ef&cache=v2)
+    
+    4. 운동 소모임
+    
+    ![운동 소모임](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fe9311ad4-3447-4f0a-a12a-13908b3e8e44%2F%EC%82%AC%EB%B3%B8_-KakaoTalk_20220703_224625352.jpg?table=block&id=68f2aa03-886e-4acf-8e52-e9bee907ddf0&spaceId=401b71cb-e899-4ad5-9a39-9ce22113fde2&width=2000&userId=0c1c41c2-5847-4586-bccb-d3aad9c7c0ef&cache=v2)
+    
+- **인스타그램**
+    
+    @khu_da_22
+    
+    [](https://www.instagram.com/khu_da_22/)
+    
+
+# 🤔 가입하기 전 알아야 하는 것이 있나요?
+
+---
+
+### KHUDA 동아리 정책
+
+1. **합격하더라도 오리엔테이션 불참 시 합격이 취소됩니다.**
+    - 오리엔테이션은 **7월 22일 18시**에 **오프라인**으로 진행됩니다.
+    - OT진행 후 회식도 진행될 예정입니다. (회식 참여는 자율입니다😉)
+2. 활동 점수를 산정하는 회원 평가제를 도입하고 있습니다.
+3. 학기 말 활동 점수에 따라 우수 회원에게 상장 및 소정의 상품이 수여될 예정입니다.
+4. 동아리 최초 가입 시 **20,000원의 동아리 회비**를 입금해야 합니다.
+5. 정기 수업 및 스터디를 **사유 없이 3회 이상 불참한 경우 동아리에서 제명될 수 있습니다.**
+    1. 위에서 말하는 사유란 불가피한 경우를 뜻합니다.
+        1. **개인 약속**을 수요일 및 스터디 진행 시간에 잡고 **사전 연락 없이** 불참한 경우는 불가피하지 않습니다.
+        
+
+# 📋 모집
+
+---
+
+자격 요건
+
+- 경희대학교 재·휴학생 누구나
+- **2기로서 책임감을 가지고 열정적으로 동아리를 함께 이끌어 갈 수 있으신 분**
+- 데이터 분석 및 인공지능 관련 직무를 고려하고 계시거나 해당 분야 지식을 습득하고 싶으신 분
+
+# 💌 지원
+
+---
+
+[**https://forms.gle/AkAp7wjaPwmX7S1Y6**](https://forms.gle/dq4iWD5Jny79VyDS7)로 접속하여 Google Forms 작성 후 제출
+
+모집 기간 : 7월 17일(일) 23:59까지
+
+결과 발표 : 7월 18일(월) ~ 7월 19일(화)
+
+OT : 경희대학교 국제캠퍼스에서 7월 22일 18시 오프라인으로 진행 (정확한 장소는 합격자 발표 후 공지)
+
+방중 컨퍼런스 : 9월 7일
+
+학기 컨퍼런스 : (미정)
+
+문의 :
+
+- KHUDA 정다영 (010-9020-8129) 
+- KHUDA 김수빈 (010-7194-6280)
+- KHUDA 박선우 (010-4823-7803)
+- KHUDA 김효준 (010-5874-9001)
