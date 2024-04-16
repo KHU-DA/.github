@@ -87,78 +87,9 @@ KHUDA는 경희대학교 소프트웨어융합대학 Data Analysis 동아리입�
     
     [KHUDA](https://cafe.naver.com/khuda/61)
     
-- **정규세션 이외의 활동**
-    1. AI 엑스포 방문
-    
-    ![엑스포1](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F63011768-f349-47bc-a75a-6779ad461657%2FUntitled.png?table=block&id=6d74167e-d8e7-4367-a636-e86be4104b50&spaceId=401b71cb-e899-4ad5-9a39-9ce22113fde2&width=2000&userId=0c1c41c2-5847-4586-bccb-d3aad9c7c0ef&cache=v2)
-    
-    ![엑스포2](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F7a8a86a9-7095-4257-a632-ed3921c1d606%2F%EC%BA%A1%EC%B2%981.png?table=block&id=689d69ba-5ec4-4bac-8d94-668d245fd169&spaceId=401b71cb-e899-4ad5-9a39-9ce22113fde2&width=2000&userId=0c1c41c2-5847-4586-bccb-d3aad9c7c0ef&cache=v2)
-    
-    2. 전체 세션 종료 후 조모임 및 피드백
-    
-    ![전체 세션 종료 후 조모임 및 피드백](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fb9b8db47-8911-468f-8806-523d08de6c41%2FUntitled.png?table=block&id=6d43b9bc-5565-4bd1-aad8-51b6ce212872&spaceId=401b71cb-e899-4ad5-9a39-9ce22113fde2&width=2000&userId=0c1c41c2-5847-4586-bccb-d3aad9c7c0ef&cache=v2)
-    
-    3. 번개 모임
-    
-    ![번개 모임](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F66fe1dd0-3002-4278-9e4d-ac39c7f5626b%2FUntitled.png?table=block&id=ca90a4f9-6be2-4507-a160-ee53a47608a0&spaceId=401b71cb-e899-4ad5-9a39-9ce22113fde2&width=2000&userId=0c1c41c2-5847-4586-bccb-d3aad9c7c0ef&cache=v2)
-    
-    4. 운동 소모임
-    
-    ![운동 소모임](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fe9311ad4-3447-4f0a-a12a-13908b3e8e44%2F%EC%82%AC%EB%B3%B8_-KakaoTalk_20220703_224625352.jpg?table=block&id=68f2aa03-886e-4acf-8e52-e9bee907ddf0&spaceId=401b71cb-e899-4ad5-9a39-9ce22113fde2&width=2000&userId=0c1c41c2-5847-4586-bccb-d3aad9c7c0ef&cache=v2)
-    
 - **인스타그램**
     
     @khu_da_22
     
     [](https://www.instagram.com/khu_da_22/)
-    
-
-# 🤔 가입하기 전 알아야 하는 것이 있나요?
-
----
-
-### KHUDA 동아리 정책
-
-1. **합격하더라도 오리엔테이션 불참 시 합격이 취소됩니다.**
-    - 오리엔테이션은 **7월 22일 18시**에 **오프라인**으로 진행됩니다.
-    - OT진행 후 회식도 진행될 예정입니다. (회식 참여는 자율입니다😉)
-2. 활동 점수를 산정하는 회원 평가제를 도입하고 있습니다.
-3. 학기 말 활동 점수에 따라 우수 회원에게 상장 및 소정의 상품이 수여될 예정입니다.
-4. 동아리 최초 가입 시 **20,000원의 동아리 회비**를 입금해야 합니다.
-5. 정기 수업 및 스터디를 **사유 없이 3회 이상 불참한 경우 동아리에서 제명될 수 있습니다.**
-    1. 위에서 말하는 사유란 불가피한 경우를 뜻합니다.
-        1. **개인 약속**을 수요일 및 스터디 진행 시간에 잡고 **사전 연락 없이** 불참한 경우는 불가피하지 않습니다.
-        
-
-# 📋 모집
-
----
-
-자격 요건
-
-- 경희대학교 재·휴학생 누구나
-- **2기로서 책임감을 가지고 열정적으로 동아리를 함께 이끌어 갈 수 있으신 분**
-- 데이터 분석 및 인공지능 관련 직무를 고려하고 계시거나 해당 분야 지식을 습득하고 싶으신 분
-
-# 💌 지원
-
----
-
-[**https://forms.gle/AkAp7wjaPwmX7S1Y6**](https://forms.gle/dq4iWD5Jny79VyDS7)로 접속하여 Google Forms 작성 후 제출
-
-모집 기간 : 7월 17일(일) 23:59까지
-
-결과 발표 : 7월 18일(월) ~ 7월 19일(화)
-
-OT : 경희대학교 국제캠퍼스에서 7월 22일 18시 오프라인으로 진행 (정확한 장소는 합격자 발표 후 공지)
-
-방중 컨퍼런스 : 9월 7일
-
-학기 컨퍼런스 : (미정)
-
-문의 :
-
-- KHUDA 정다영 (010-9020-8129) 
-- KHUDA 김수빈 (010-7194-6280)
-- KHUDA 박선우 (010-4823-7803)
-- KHUDA 김효준 (010-5874-9001)
+       
